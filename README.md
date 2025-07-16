@@ -438,8 +438,7 @@ SOFTWARE.
 
 **¿Necesitas ayuda con la personalización?**
 
-📧 Email: [support@legalpro.dev](mailto:support@legalpro.dev)  
-💬 WhatsApp: [+56 9 1234 5678](https://wa.me/56912345678)  
+📧 Email: [v.villarroelp@duocuc.cl](mailto:v.villarroelp@duocuc.cl)   
 🌐 Website: [www.legalpro.dev](https://legalpro.dev)
 
 **⭐ Si este proyecto te fue útil, no olvides darle una estrella en GitHub ⭐**
